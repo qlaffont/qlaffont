@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a portfolio : 2023 Edition](https://blog.qlaffont.com/create-a-portfolio-2023-edition)
+- [How to download a file with fetch and send it with fetch &lpar;without fs&rpar; ? 🤔](https://blog.qlaffont.com/how-to-download-a-file-with-fetch-and-send-it-with-fetch-without-fs)
+- [Monetize your Discord with Chargebee &amp; Stripe](https://blog.qlaffont.com/monetize-your-discord-with-chargebee-and-stripe)
+- [Shadow ou PC ? Finalement PC](https://blog.qlaffont.com/shadow-ou-pc-finalement-pc-740f4539bd71)
+- [Discord x Stripe : Simple payment integration ⚡️](https://blog.qlaffont.com/discord-x-stripe-simple-payment-integration)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
