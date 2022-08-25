@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://qlaffont.com/about](https://qlaffont.com/about)
 
-- ⚡ Fun fact **my first PC is a Apple two when I was a baby !**
+- ⚡ Fun fact **my first PC is a Apple II when I was a baby !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
