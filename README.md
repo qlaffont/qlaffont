@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin Laffont</h1>
-<h3 align="center">I'm a Lead Developer and Full-Stack JS Developer (Node, React) !</h3>
+<h3 align="center">I'm a Lead Developer and Full-Stack TS Developer (Node, React) !</h3>
 
 - 👨‍💻 All of my projects are available at [https://qlaffont.com](https://qlaffont.com)
 
